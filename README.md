@@ -10,9 +10,9 @@ Using python3 with pyspark (use python3 with pyspark):
 ```bash
 export PYSPARK_PYTHON=python3
 ```
-Install findspark (to use pyspark with Jupyter notebook):
+Install findspark and jupyter (to use pyspark with Jupyter notebook):
 ```bash
-sudo /usr/local/bin/pip3 install findspark
+sudo /usr/local/bin/pip3 install findspark jupyter
 ```
 Set SPARK_HOME (for findspark package):
 ```bash
