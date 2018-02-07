@@ -22,3 +22,8 @@ export SPARK_HOME=/usr/lib/spark
 Setup Jupyter Notebook:
 
 https://github.com/justinng1/AWS-EC2-setup/blob/master/docs/jupyter_notebook.md
+
+
+Notes:
+
+m1.medium instances will not work with Spark.
