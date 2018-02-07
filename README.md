@@ -14,5 +14,11 @@ Install findspark:
 ```bash
 sudo /usr/bin/pip3 install findspark
 ```
+Set SPARK_HOME:
+```bash
+export SPARK_HOME=/usr/lib/spark
+```
+
 Setup Jupyter Notebook:
+
 https://github.com/justinng1/AWS-EC2-setup/blob/master/docs/jupyter_notebook.md
