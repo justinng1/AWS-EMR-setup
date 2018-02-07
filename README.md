@@ -6,15 +6,15 @@ Installing pip3:
 sudo yum install python34-setuptools
 sudo easy_install-3.4 pip
 ```
-Using python3 with pyspark:
+Using python3 with pyspark (use python3 with pyspark):
 ```bash
 export PYSPARK_PYTHON=python3
 ```
-Install findspark:
+Install findspark (to use pyspark with Jupyter notebook):
 ```bash
 sudo /usr/bin/pip3 install findspark
 ```
-Set SPARK_HOME:
+Set SPARK_HOME (for findspark package):
 ```bash
 export SPARK_HOME=/usr/lib/spark
 ```
