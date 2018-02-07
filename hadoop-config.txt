@@ -1,0 +1,19 @@
+[
+  {
+    "Classification": "hadoop-env",
+    "Properties": {
+     
+    },
+    "Configurations": [
+      {
+        "Classification": "export",
+        "Properties": {
+          "HADOOP_CLASSPATH": "$HADOOP_CLASSPATH:${HADOOP_HOME}/share/hadoop/tools/lib/*"
+        },
+        "Configurations": [
+         
+        ]
+      }
+    ]
+  }
+]
