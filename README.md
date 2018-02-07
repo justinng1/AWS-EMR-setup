@@ -12,7 +12,7 @@ export PYSPARK_PYTHON=python3
 ```
 Install findspark (to use pyspark with Jupyter notebook):
 ```bash
-sudo /usr/bin/pip3 install findspark
+sudo /usr/local/bin/pip3 install findspark
 ```
 Set SPARK_HOME (for findspark package):
 ```bash
