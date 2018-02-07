@@ -10,3 +10,7 @@ Using python3 with pyspark:
 ```bash
 export PYSPARK_PYTHON=python3
 ```
+Install findspark:
+```bash
+sudo /usr/bin/pip3 install findspark
+```
