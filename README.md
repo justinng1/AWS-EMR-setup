@@ -25,5 +25,5 @@ https://github.com/justinng1/AWS-EC2-setup/blob/master/docs/jupyter_notebook.md
 
 
 Notes:
-
-m1.medium instances will not work with Spark.
+* m1.medium instances will not work with Spark.
+* spark_test and spark_test2 are jupyter notebooks where I test some Spark functions on the berka dataset (see https://github.com/justinng1/berka)
